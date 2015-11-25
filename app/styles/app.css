@@ -1,11 +1,16 @@
 body {
-display: block;
-text-align: center;
-color: #333;
-background: #FFF;
-margin: 80px auto;
-width: 100%;
+	display: block;
+	text-align: center;
+	color: #333;
+	background: #FFF;
+	margin: 80px auto;
+	width: 100%;
 }
+
 table {
-width: 100%;
+	width: 100%;
+}
+
+.friends-table thead tr {
+	cursor: pointer;
 }
